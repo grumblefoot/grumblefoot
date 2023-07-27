@@ -59,8 +59,7 @@ Welcome to my GitHub profile! I'm Rowan Wolf Osmon, a recent Software Engineerin
 
 ## 📫 How to reach me
 
-- Email: rowanosmon@gmail.com
-- Phone: 253-225-1563
+- Email: rowanosmon[at]gmail[dot]com
 - LinkedIn: [linkedin.com/in/rowanosmon](https://linkedin.com/in/rowanosmon)
 - GitHub: [github.com/grumblefoot](https://github.com/grumblefoot)
 
