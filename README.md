@@ -1,7 +1,7 @@
 
 ### Hello and Welcome!
 
-Welcome to my GitHub profile! I'm Rowan Wolf Osmon, a recent Software Engineering graduate from the University of Washington. Based in Tacoma/Seattle, WA, I'm passionate about creating innovative software solutions and exploring the world of technology. Feel free to explore my repositories and projects. Don't hesitate to get in touch if you have any questions or want to collaborate.
+Welcome to my GitHub profile! I'm Rowan Wolf Osmon, a Software Engineering December 2023 graduate from the University of Washington. Based in Tacoma/Seattle, WA, I'm passionate about creating innovative software solutions and exploring the world of technology. Feel free to explore my repositories and projects. Don't hesitate to get in touch if you have any questions or want to collaborate.
 
 ## 🔧 Skills and Relevant Experience
 
