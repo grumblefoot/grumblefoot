@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm Rowan Wolf Osmon, a Software Engineering Decem
 
 ## 🎓 Education & Coursework
 
-- Bachelor of Science, Computer Science - University of Washington, Seattle, WA, 2021 - Aug 2023 (expected)
+- Bachelor of Science, Computer Science - University of Washington, Seattle, WA, 2021 - Dec 2023 (expected)
 - Associate of Science, Computer Science - Tacoma Community College, Tacoma, WA, 2018 - 2021
 
 ## 💼 Work Experience
