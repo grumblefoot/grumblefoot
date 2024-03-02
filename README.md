@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm Rowan Wolf Osmon, a Software Engineering Decem
 
 ### Software Engineer Intern, Full Stack - Teamwyrk.org
 
-- Mar 2023 - Present
+- Mar 2023 - Dec 2023
 - Collaborated with a senior engineer to develop multiple features for the platform.
 - Facilitated cloud storage, security, and authentication services through Firebase.
 - Utilized Node.js, JavaScript, React, and other tools to deliver project features.
